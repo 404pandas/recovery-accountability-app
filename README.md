@@ -1,2 +1,5 @@
 # recovery-accountability-app
 FUTURE PROJECT WHEN LIFE SLOWS DOWN- This is the future home to a sponsor/sponsee app built for users in recovery that can connect and aid in the accountability between a sponsor and sponsee of an addiction of any kind.
+
+#### ChatGPT Suggested Pitch (rewrite to make more personal after prototype is built)
+"When I first walked into a recovery meeting, I had hit rock bottom. Like many of us, I had nothing but the hope of a better life. Each day, I passed by the donation jar, unable to contribute a single cent. There was no judgment, but it weighed on my mind. Today, I'm ___ months sober. While I still don't have much in the way of material wealth, I've gained something invaluable—knowledge. During my recovery, I learned to code. This newfound skill inspired me to give back in a way that money couldn't. That's how I came up with the idea for _____, an app designed to help sponsees stay connected with their sponsors. With this app, daily check-ins are just a tap away, making the journey to sobriety a little bit easier for everyone."
